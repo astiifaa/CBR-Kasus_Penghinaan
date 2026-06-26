@@ -257,8 +257,8 @@ The system successfully performs:
 
 # Author
 
-- **Radhiya Astifa**
-- **Ricah Cinta Sari**
+**1. Radhiya Astifa**
+**2. Richa Cinta Sari**
 
 Computer Science Undergraduate Student
 
